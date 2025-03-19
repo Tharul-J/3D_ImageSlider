@@ -1,7 +1,7 @@
 # 3D Image Slider
 -----------------------
 [HTML+CSS]
-![image](https://github.com/user-attachments/assets/0f9c9e5d-8bb9-4c7c-bb8f-6f27e7d398b9)
+-------
 
-
+https://github.com/user-attachments/assets/d69f5f15-405e-4d3f-9894-4a9acefaa5c6
 
