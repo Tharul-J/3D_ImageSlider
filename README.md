@@ -2,6 +2,5 @@
 -----------------------
 [ HTML + CSS ]
 -------
-
-- https://github.com/user-attachments/assets/0164fca7-9853-4561-87c0-5949d3bcabd5
+https://github.com/user-attachments/assets/07a59447-c13a-4f98-ae5e-c9f57730d52c
 
