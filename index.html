@@ -26,19 +26,19 @@
             );
         }
         
-        body::before{
-            position: absolute;
-            width: min(1400px, 90vw);
-            top: 10%;
-            left: 50%;
-            height: 90%;
-            transform: translateX(-50%);
-            content: '';
-            background-image: url(images/bg.png);
-            background-size: 100%;
-            background-repeat: no-repeat;
-            background-position: top center;
-            pointer-events: none;
+        body::before {
+        position: absolute;
+        width: 100%; /* Full width */
+        height: 100%; /* Full height */
+        top: 0; /* Start from top edge */
+        left: 0; /* Start from left edge */
+        content: '';
+        background-image: url(images/bg.png);
+        background-size: cover; /* Cover entire container */
+        background-repeat: no-repeat;
+        background-position: center; /* Center the image */
+        pointer-events: none;
+        
         }
     </style>
     <link rel="stylesheet" href="style.css">
@@ -58,19 +58,7 @@
             <div class="item" style="--position: 9"><img src="images/img9.jpg" alt=""></div>
             <div class="item" style="--position: 10"><img src="images/img10.jpg" alt=""></div>
         </div>
-        <div class="content">
-            <h1 data-content="3D IMAGE SLIDER">
-              3D IMAGE SLIDER
-            </h1>
-            <div class="author">
-                <h2>THARUL.J</h2>
-                <p><b>...</b></p>
-                <p>
-                     
-                </p>
-            </div>
-            <div class="model"></div>
-        </div>
+        
     </div>
     
 </body>
