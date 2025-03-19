@@ -1,4 +1,4 @@
-#3️⃣D Image Slider
+3️⃣D Image Slider
 -----------------------
 [ HTML + CSS ]
 -------
